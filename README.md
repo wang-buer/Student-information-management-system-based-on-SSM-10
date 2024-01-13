@@ -1,10 +1,4 @@
-# 基于SSM的学生信息管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： “**学生10** ” 
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的学生信息管理系统10
 
 ## 1、项目介绍
 
@@ -35,33 +29,30 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311929923.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202205311929923.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311929429.jpg)
+![管理员-班级管理](https://www.codeshop.fun/Typora-Images/202205311929429.jpg)
 
-![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311929271.jpg)
+![管理员-管理员管理](https://www.codeshop.fun/Typora-Images/202205311929271.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311929824.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202205311929824.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311929429.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202205311929429.jpg)
 
 管理员可以对学生、教师、班级、年级等进行增删改查，其中查询为多条件查询，具体可以看上述截图
 
 ### 4.3 教师模块
 
-![教师界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311929507.jpg)
+![教师界面](https://www.codeshop.fun/Typora-Images/202205311929507.jpg)
 
 ### 4.4 学生模块
 
-![学生界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311930406.jpg)
+![学生界面](https://www.codeshop.fun/Typora-Images/202205311930406.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： “**学生10**”  
+下方扫一扫关注后，后台回复关键词：**学生**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
